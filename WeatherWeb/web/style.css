@@ -1,0 +1,160 @@
+body {
+	font-family: 'Staatliches', cursive;
+	background-size: cover;
+	position:float;
+	margin: auto;
+	width:100%;
+	
+
+	
+	
+	
+	
+}
+
+header {
+	
+	
+	border: 2px solid black;
+	padding: 1% 0% 1% 5%;
+	font-size: 150%;
+	background-color:black;
+	color:white;
+}
+
+::selection{
+	background:black;
+	color: white;
+}
+
+
+
+
+
+#pageButtons{
+	display:inline-block;
+	text-decoration: none;
+	background-color: white;
+    color: black;
+	border-style: solid;
+	border-width: 2px;
+	text-align:center;
+	font-size: 10px;
+	width: 10%;
+	padding: 1% 0% 1% 0%;
+	
+}
+#pageButtons:hover{
+	background-color:black;
+	color: white;
+	cursor: pointer;
+	border-style: solid;
+	border-width: 2px;
+	transition:.5s;
+	text-shadow: 2px 2px 10px white;
+}
+
+
+
+
+
+main {
+	
+	margin-top:10%;
+	margin-left:7%;
+	border: 2px solid black;
+	padding: 1% 5% 1% 5%;
+	background-color:white;
+	color:black;
+	width:75%;
+	font-family: 'Rajdhani', sans-serif;
+
+}
+
+
+h1 {
+        margin-left: 3%;
+	font-family: 'Righteous', cursive;
+	
+
+}
+
+h2 {
+	font-family: 'Righteous', cursive;
+	font-size: 25px;
+        margin-left: 3%;
+}
+
+p {
+        margin-left: 3%;
+	font-family: 'Righteous', cursive;
+	
+
+}
+
+
+
+
+input[type="email"] {
+	width:100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+        margin-left: 3%;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 4px;
+	box-sizing:border-box;
+	float:center;
+}
+
+input[type="text"] {
+	width:100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+        margin-left: 3%;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 4px;
+	box-sizing:border-box;
+	float:center;
+}
+
+input[type="password"] {
+	width:100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+        margin-left: 3%;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 4px;
+	box-sizing:border-box;
+	float:center;
+}
+
+input[type="submit"]:hover {
+	
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+input[type="submit"]{
+	
+	width:30%;
+	padding: 12px 20px;
+	margin: 8px 0;
+        margin-left: 3%;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 4px;
+	box-sizing:border-box;
+	float:center;
+	text-align:center;
+	background-color: white;
+	
+	
+}
+
+
+	
+
+

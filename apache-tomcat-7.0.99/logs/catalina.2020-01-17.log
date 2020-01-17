@@ -1,0 +1,1332 @@
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 11 2019 13:15:59 UTC
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.99.0
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13+33
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\logging.properties
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-VLMS0C5
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\temp
+Jan 17, 2020 3:19:59 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Lewwa\AppData\Local\Microsoft\WindowsApps;C:\Users\Lewwa\AppData\Roaming\npm;C:\Users\Lewwa\AppData\Local\GitHubDesktop\bin;.]
+Jan 17, 2020 3:19:59 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:19:59 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 431 ms
+Jan 17, 2020 3:19:59 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Jan 17, 2020 3:19:59 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.99
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs]
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs] has finished in [324] ms
+Jan 17, 2020 3:19:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples]
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples] has finished in [621] ms
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager]
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager] has finished in [89] ms
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager]
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager] has finished in [91] ms
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT]
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT] has finished in [73] ms
+Jan 17, 2020 3:20:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:20:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1292 ms
+Jan 17, 2020 3:20:00 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WebApplication1.xml]
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/core_rt is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/core is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/fmt_rt is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/fmt is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/standard/permittedTaglibs is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/standard/scriptfree is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/sql_rt is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/sql is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/xml_rt is already defined
+Jan 17, 2020 3:20:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jstl/xml is already defined
+Jan 17, 2020 3:20:13 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Jan 17, 2020 3:20:14 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing Root WebApplicationContext: startup date [Fri Jan 17 15:20:14 GMT 2020]; root of context hierarchy
+Jan 17, 2020 3:20:14 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+Jan 17, 2020 3:20:15 PM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 1962 ms
+Jan 17, 2020 3:20:15 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WebApplication1'
+Jan 17, 2020 3:20:16 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 3:20:17 PM org.apache.struts.faces.application.ActionListenerImpl <init>
+INFO: Create ActionListener wrapping instance of type 'com.sun.faces.application.ActionListenerImpl'
+Jan 17, 2020 3:20:19 PM org.apache.struts.action.ActionServlet initChain
+INFO: Loading chain catalog from jar:file:/F:/MY%20STUFF/NewSoftwareDev_WeatherApp/WebApplication1/build/web/WEB-INF/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+Jan 17, 2020 3:20:20 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO: Tiles definition factory loaded for module ''.
+Jan 17, 2020 3:20:20 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+Jan 17, 2020 3:20:21 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+Jan 17, 2020 3:20:22 PM org.springframework.web.servlet.FrameworkServlet initServletBean
+INFO: FrameworkServlet 'dispatcher': initialization started
+Jan 17, 2020 3:20:22 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jan 17 15:20:22 GMT 2020]; parent: Root WebApplicationContext
+Jan 17, 2020 3:20:22 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+Jan 17, 2020 3:20:23 PM org.springframework.web.servlet.handler.AbstractUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/index.htm] onto handler 'indexController'
+Jan 17, 2020 3:20:23 PM org.springframework.web.servlet.FrameworkServlet initServletBean
+INFO: FrameworkServlet 'dispatcher': initialization completed in 968 ms
+Jan 17, 2020 3:20:23 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WebApplication1.xml] has finished in [23,171] ms
+Jan 17, 2020 3:20:23 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 3:20:24 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: JSF1073: javax.faces.FacesException caught during processing of RESTORE_VIEW 1 : UIComponent-ClientId=, Message=java.lang.NullPointerException
+Jan 17, 2020 3:20:24 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: java.lang.NullPointerException
+javax.faces.FacesException: java.lang.NullPointerException
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:264)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.RestoreViewPhase.doPhase(RestoreViewPhase.java:121)
+	at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:198)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:646)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.NullPointerException
+	at com.sun.faces.application.view.FaceletViewHandlingStrategy.createView(FaceletViewHandlingStrategy.java:822)
+	at com.sun.faces.application.view.MultiViewHandler.createView(MultiViewHandler.java:168)
+	at org.apache.struts.faces.application.ViewHandlerImpl.createView(ViewHandlerImpl.java:157)
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:254)
+	... 24 more
+
+Jan 17, 2020 3:20:55 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: JSF1073: javax.faces.FacesException caught during processing of RESTORE_VIEW 1 : UIComponent-ClientId=, Message=java.lang.NullPointerException
+Jan 17, 2020 3:20:55 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: java.lang.NullPointerException
+javax.faces.FacesException: java.lang.NullPointerException
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:264)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.RestoreViewPhase.doPhase(RestoreViewPhase.java:121)
+	at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:198)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:646)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.NullPointerException
+	at com.sun.faces.application.view.FaceletViewHandlingStrategy.createView(FaceletViewHandlingStrategy.java:822)
+	at com.sun.faces.application.view.MultiViewHandler.createView(MultiViewHandler.java:168)
+	at org.apache.struts.faces.application.ViewHandlerImpl.createView(ViewHandlerImpl.java:157)
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:254)
+	... 24 more
+
+Jan 17, 2020 3:21:06 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: JSF1073: javax.faces.FacesException caught during processing of RESTORE_VIEW 1 : UIComponent-ClientId=, Message=java.lang.NullPointerException
+Jan 17, 2020 3:21:06 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: java.lang.NullPointerException
+javax.faces.FacesException: java.lang.NullPointerException
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:264)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.RestoreViewPhase.doPhase(RestoreViewPhase.java:121)
+	at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:198)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:646)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.NullPointerException
+	at com.sun.faces.application.view.FaceletViewHandlingStrategy.createView(FaceletViewHandlingStrategy.java:822)
+	at com.sun.faces.application.view.MultiViewHandler.createView(MultiViewHandler.java:168)
+	at org.apache.struts.faces.application.ViewHandlerImpl.createView(ViewHandlerImpl.java:157)
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:254)
+	... 24 more
+
+Jan 17, 2020 3:27:52 PM org.springframework.context.support.AbstractApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jan 17 15:20:22 GMT 2020]; parent: Root WebApplicationContext
+Jan 17, 2020 3:27:52 PM org.springframework.context.support.AbstractApplicationContext doClose
+INFO: Closing Root WebApplicationContext: startup date [Fri Jan 17 15:20:14 GMT 2020]; root of context hierarchy
+Jan 17, 2020 3:27:55 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/WebApplication1]
+Jan 17, 2020 3:28:07 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:28:07 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:28:07 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 11 2019 13:15:59 UTC
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.99.0
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13+33
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\logging.properties
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-VLMS0C5
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\temp
+Jan 17, 2020 3:31:48 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Lewwa\AppData\Local\Microsoft\WindowsApps;C:\Users\Lewwa\AppData\Roaming\npm;C:\Users\Lewwa\AppData\Local\GitHubDesktop\bin;.]
+Jan 17, 2020 3:31:48 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:31:48 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 353 ms
+Jan 17, 2020 3:31:48 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Jan 17, 2020 3:31:48 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.99
+Jan 17, 2020 3:31:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs] has finished in [292] ms
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples] has finished in [530] ms
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager] has finished in [78] ms
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager] has finished in [77] ms
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT] has finished in [62] ms
+Jan 17, 2020 3:31:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 3:31:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1121 ms
+Jan 17, 2020 3:31:49 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml]
+Jan 17, 2020 3:31:55 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 3:31:55 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 3:31:57 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml] has finished in [7,486] ms
+Jan 17, 2020 3:31:57 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 4:01:18 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\MyApp.xml]
+Jan 17, 2020 4:01:18 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Jan 17, 2020 4:01:19 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 4:01:19 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/MyApp'
+Jan 17, 2020 4:01:19 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 4:01:19 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/MyApp/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 4:01:19 PM org.primefaces.webapp.PostConstructApplicationEventListener processEvent
+INFO: Running on PrimeFaces 5.0
+Jan 17, 2020 4:01:19 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\MyApp.xml] has finished in [1,735] ms
+Jan 17, 2020 4:01:19 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyApp]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 4:01:20 PM com.sun.faces.application.view.FaceletViewHandlingStrategy handleRenderException
+SEVERE: Error Rendering View[/login.xhtml]
+com.sun.faces.mgbean.ManagedBeanCreationException: Cant instantiate class: org.MyApp.controller.LoginBean.
+	at com.sun.faces.mgbean.BeanBuilder.newBeanInstance(BeanBuilder.java:191)
+	at com.sun.faces.mgbean.BeanBuilder.build(BeanBuilder.java:100)
+	at com.sun.faces.mgbean.BeanManager.createAndPush(BeanManager.java:409)
+	at com.sun.faces.mgbean.BeanManager.create(BeanManager.java:269)
+	at com.sun.faces.el.ManagedBeanELResolver.resolveBean(ManagedBeanELResolver.java:257)
+	at com.sun.faces.el.ManagedBeanELResolver.getValue(ManagedBeanELResolver.java:117)
+	at com.sun.faces.el.DemuxCompositeELResolver._getValue(DemuxCompositeELResolver.java:176)
+	at com.sun.faces.el.DemuxCompositeELResolver.getValue(DemuxCompositeELResolver.java:203)
+	at org.apache.el.parser.AstIdentifier.getValue(AstIdentifier.java:71)
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:161)
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:187)
+	at com.sun.faces.facelets.el.TagValueExpression.getValue(TagValueExpression.java:109)
+	at javax.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:194)
+	at javax.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:182)
+	at javax.faces.component.UIOutput.getValue(UIOutput.java:174)
+	at javax.faces.component.UIInput.getValue(UIInput.java:291)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicInputRenderer.getValue(HtmlBasicInputRenderer.java:205)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getCurrentValue(HtmlBasicRenderer.java:355)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.encodeEnd(HtmlBasicRenderer.java:164)
+	at javax.faces.component.UIComponentBase.encodeEnd(UIComponentBase.java:919)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1863)
+	at javax.faces.render.Renderer.encodeChildren(Renderer.java:176)
+	at javax.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:889)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1856)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1859)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1859)
+	at com.sun.faces.application.view.FaceletViewHandlingStrategy.renderView(FaceletViewHandlingStrategy.java:456)
+	at com.sun.faces.application.view.MultiViewHandler.renderView(MultiViewHandler.java:133)
+	at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:120)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:219)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:647)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.RuntimeException: 
+	at org.MyApp.controller.LoginBean.<init>(LoginBean.java:1)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:166)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:404)
+	at java.base/java.lang.Class.newInstance(Class.java:591)
+	at com.sun.faces.mgbean.BeanBuilder.newBeanInstance(BeanBuilder.java:186)
+	... 51 more
+
+Jan 17, 2020 4:01:20 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: JSF1073: com.sun.faces.mgbean.ManagedBeanCreationException caught during processing of RENDER_RESPONSE 6 : UIComponent-ClientId=, Message=Cant instantiate class: org.MyApp.controller.LoginBean.
+Jan 17, 2020 4:01:20 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: Cant instantiate class: org.MyApp.controller.LoginBean.
+com.sun.faces.mgbean.ManagedBeanCreationException: Cant instantiate class: org.MyApp.controller.LoginBean.
+	at com.sun.faces.mgbean.BeanBuilder.newBeanInstance(BeanBuilder.java:191)
+	at com.sun.faces.mgbean.BeanBuilder.build(BeanBuilder.java:100)
+	at com.sun.faces.mgbean.BeanManager.createAndPush(BeanManager.java:409)
+	at com.sun.faces.mgbean.BeanManager.create(BeanManager.java:269)
+	at com.sun.faces.el.ManagedBeanELResolver.resolveBean(ManagedBeanELResolver.java:257)
+	at com.sun.faces.el.ManagedBeanELResolver.getValue(ManagedBeanELResolver.java:117)
+	at com.sun.faces.el.DemuxCompositeELResolver._getValue(DemuxCompositeELResolver.java:176)
+	at com.sun.faces.el.DemuxCompositeELResolver.getValue(DemuxCompositeELResolver.java:203)
+	at org.apache.el.parser.AstIdentifier.getValue(AstIdentifier.java:71)
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:161)
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:187)
+	at com.sun.faces.facelets.el.TagValueExpression.getValue(TagValueExpression.java:109)
+	at javax.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:194)
+	at javax.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:182)
+	at javax.faces.component.UIOutput.getValue(UIOutput.java:174)
+	at javax.faces.component.UIInput.getValue(UIInput.java:291)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicInputRenderer.getValue(HtmlBasicInputRenderer.java:205)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getCurrentValue(HtmlBasicRenderer.java:355)
+	at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.encodeEnd(HtmlBasicRenderer.java:164)
+	at javax.faces.component.UIComponentBase.encodeEnd(UIComponentBase.java:919)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1863)
+	at javax.faces.render.Renderer.encodeChildren(Renderer.java:176)
+	at javax.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:889)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1856)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1859)
+	at javax.faces.component.UIComponent.encodeAll(UIComponent.java:1859)
+	at com.sun.faces.application.view.FaceletViewHandlingStrategy.renderView(FaceletViewHandlingStrategy.java:456)
+	at com.sun.faces.application.view.MultiViewHandler.renderView(MultiViewHandler.java:133)
+	at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:120)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:219)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:647)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.RuntimeException: 
+	at org.MyApp.controller.LoginBean.<init>(LoginBean.java:1)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:166)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:404)
+	at java.base/java.lang.Class.newInstance(Class.java:591)
+	at com.sun.faces.mgbean.BeanBuilder.newBeanInstance(BeanBuilder.java:186)
+	... 51 more
+
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.99
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Dec 11 2019 13:15:59 UTC
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.99.0
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13+33
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\logging.properties
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-VLMS0C5
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99
+Jan 17, 2020 4:52:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\temp
+Jan 17, 2020 4:52:44 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk-13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Lewwa\AppData\Local\Microsoft\WindowsApps;C:\Users\Lewwa\AppData\Roaming\npm;C:\Users\Lewwa\AppData\Local\GitHubDesktop\bin;.]
+Jan 17, 2020 4:52:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 4:52:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 4:52:45 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 517 ms
+Jan 17, 2020 4:52:45 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Jan 17, 2020 4:52:45 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.99
+Jan 17, 2020 4:52:45 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml]
+Jan 17, 2020 4:52:45 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 4:52:45 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 4:52:46 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml] has finished in [1,323] ms
+Jan 17, 2020 4:52:46 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\MyApp.xml]
+Jan 17, 2020 4:52:46 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Jan 17, 2020 4:52:47 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 4:52:47 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/MyApp'
+Jan 17, 2020 4:52:47 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 4:52:47 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/MyApp/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 4:52:47 PM org.primefaces.webapp.PostConstructApplicationEventListener processEvent
+INFO: Running on PrimeFaces 5.0
+Jan 17, 2020 4:52:47 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\MyApp.xml] has finished in [1,391] ms
+Jan 17, 2020 4:52:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs]
+Jan 17, 2020 4:52:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\docs] has finished in [25] ms
+Jan 17, 2020 4:52:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples]
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\examples] has finished in [271] ms
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager]
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\host-manager] has finished in [36] ms
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager]
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\manager] has finished in [32] ms
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT]
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\webapps\ROOT] has finished in [26] ms
+Jan 17, 2020 4:52:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Jan 17, 2020 4:52:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 17, 2020 4:52:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3172 ms
+Jan 17, 2020 4:52:49 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: JSF1073: javax.faces.view.facelets.FaceletException caught during processing of RESTORE_VIEW 1 : UIComponent-ClientId=, Message=Error Parsing /index.xhtml: Error Traced[line: 8] The element type "link" must be terminated by the matching end-tag "</link>".
+Jan 17, 2020 4:52:49 PM com.sun.faces.context.ExceptionHandlerImpl log
+1100: Error Parsing /index.xhtml: Error Traced[line: 8] The element type "link" must be terminated by the matching end-tag "</link>".
+javax.faces.view.facelets.FaceletException: Error Parsing /index.xhtml: Error Traced[line: 8] The element type "link" must be terminated by the matching end-tag "</link>".
+	at com.sun.faces.facelets.compiler.SAXCompiler.doCompile(SAXCompiler.java:456)
+	at com.sun.faces.facelets.compiler.SAXCompiler.doMetadataCompile(SAXCompiler.java:439)
+	at com.sun.faces.facelets.compiler.Compiler.metadataCompile(Compiler.java:130)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory.createMetadataFacelet(DefaultFaceletFactory.java:503)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory.access$200(DefaultFaceletFactory.java:106)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory$2.newInstance(DefaultFaceletFactory.java:205)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory$2.newInstance(DefaultFaceletFactory.java:203)
+	at com.sun.faces.facelets.impl.DefaultFaceletCache$2.newInstance(DefaultFaceletCache.java:97)
+	at com.sun.faces.facelets.impl.DefaultFaceletCache$2.newInstance(DefaultFaceletCache.java:92)
+	at com.sun.faces.util.ExpiringConcurrentCache$1.call(ExpiringConcurrentCache.java:99)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.sun.faces.util.ExpiringConcurrentCache.get(ExpiringConcurrentCache.java:114)
+	at com.sun.faces.facelets.impl.DefaultFaceletCache.getViewMetadataFacelet(DefaultFaceletCache.java:146)
+	at com.sun.faces.facelets.impl.DefaultFaceletCache.getViewMetadataFacelet(DefaultFaceletCache.java:63)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory.getMetadataFacelet(DefaultFaceletFactory.java:316)
+	at com.sun.faces.facelets.impl.DefaultFaceletFactory.getMetadataFacelet(DefaultFaceletFactory.java:246)
+	at com.sun.faces.application.view.ViewMetadataImpl.createMetadataView(ViewMetadataImpl.java:138)
+	at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:241)
+	at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+	at com.sun.faces.lifecycle.RestoreViewPhase.doPhase(RestoreViewPhase.java:121)
+	at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:198)
+	at javax.faces.webapp.FacesServlet.service(FacesServlet.java:646)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Jan 17, 2020 5:17:28 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:17:31 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:17:32 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:17:32 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:17:32 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:17:38 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:17:38 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:17:38 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:21:58 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:22:02 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:22:02 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:22:02 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:22:06 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:22:09 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:22:09 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:22:10 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:33:47 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:33:52 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:33:52 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:33:52 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:33:52 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:33:57 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:33:57 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:33:58 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:34:27 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:34:30 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:34:31 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:34:31 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:37:09 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:37:13 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:37:13 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:37:13 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:47:03 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:47:07 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:47:07 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:47:07 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:50:15 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:50:18 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:50:19 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:50:19 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:50:31 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:50:36 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:50:36 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:50:36 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 5:52:16 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 5:52:19 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 5:52:19 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 5:52:20 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:10:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:10:29 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:10:29 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:10:29 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:12:11 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:12:15 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:12:15 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:12:16 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:19:43 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:19:47 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:19:47 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:19:47 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:22:42 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:22:42 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:22:43 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:25:04 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:25:04 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:25:04 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:25:08 PM org.apache.catalina.startup.HostConfig reload
+INFO: Reloading context [/WeatherWeb]
+Jan 17, 2020 6:25:09 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:25:09 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:25:09 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:25:09 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 6:25:13 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:25:13 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:25:14 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:25:30 PM org.apache.catalina.startup.HostConfig reload
+INFO: Reloading context [/WeatherWeb]
+Jan 17, 2020 6:25:30 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:25:30 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:25:31 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:25:31 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 6:25:34 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:25:34 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:25:34 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:27:35 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:27:36 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:27:36 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:27:42 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:27:42 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:27:42 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:32:05 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:32:05 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:32:05 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:32:11 PM org.apache.catalina.startup.HostConfig reload
+INFO: Reloading context [/WeatherWeb]
+Jan 17, 2020 6:32:11 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:32:15 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:32:16 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:32:16 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:32:16 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:33:02 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:33:02 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:33:03 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:33:06 PM org.apache.catalina.startup.HostConfig reload
+INFO: Reloading context [/WeatherWeb]
+Jan 17, 2020 6:33:07 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:33:07 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:33:07 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:33:07 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 6:34:07 PM org.apache.catalina.startup.HostConfig reload
+INFO: Reloading context [/WeatherWeb]
+Jan 17, 2020 6:34:08 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:34:08 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:34:09 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:34:09 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 6:34:13 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:34:13 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:34:13 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:41:35 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:41:36 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: 
+        http://java.sun.com/jsf/html
+     is already defined
+Jan 17, 2020 6:41:36 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jsf/core is already defined
+Jan 17, 2020 6:41:38 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:41:39 PM com.sun.faces.config.ConfigureListener contextInitialized
+SEVERE: Critical error during deployment: 
+java.lang.NoClassDefFoundError: com/sun/enterprise/InjectionException
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:416)
+	at com.sun.faces.util.Util.loadClass(Util.java:325)
+	at com.sun.faces.spi.InjectionProviderFactory.getProviderFromEntry(InjectionProviderFactory.java:317)
+	at com.sun.faces.spi.InjectionProviderFactory.findProviderClass(InjectionProviderFactory.java:285)
+	at com.sun.faces.spi.InjectionProviderFactory.createInstance(InjectionProviderFactory.java:116)
+	at com.sun.faces.config.ConfigManager.initialize(ConfigManager.java:361)
+	at com.sun.faces.config.ConfigureListener.contextInitialized(ConfigureListener.java:221)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5195)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5720)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4212)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1016)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:371)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.ClassNotFoundException: com.sun.enterprise.InjectionException
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1951)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1794)
+	... 39 more
+
+Jan 17, 2020 6:41:39 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Jan 17, 2020 6:41:39 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WeatherWeb] startup failed due to previous errors
+Jan 17, 2020 6:41:39 PM javax.faces.FactoryFinder$FactoryManager copyInjectionProviderFromFacesContext
+SEVERE: Unable to obtain InjectionProvider from init time FacesContext. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:39 PM javax.faces.FactoryFinder$FactoryManager getFactory
+SEVERE: Application was not properly initialized at startup, could not find Factory: javax.faces.application.ApplicationFactory. Attempting to find backup.
+Jan 17, 2020 6:41:39 PM com.sun.faces.config.ConfigureListener contextDestroyed
+SEVERE: Unexpected exception when attempting to tear down the Mojarra runtime
+java.lang.IllegalStateException: Could not find backup for factory javax.faces.application.ApplicationFactory. 
+	at javax.faces.FactoryFinder$FactoryManager.getFactory(FactoryFinder.java:1135)
+	at javax.faces.FactoryFinder.getFactory(FactoryFinder.java:379)
+	at com.sun.faces.config.InitFacesContext.getApplication(InitFacesContext.java:142)
+	at com.sun.faces.config.ConfigureListener.contextDestroyed(ConfigureListener.java:319)
+	at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:5242)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5933)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:187)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4212)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1016)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:371)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Jan 17, 2020 6:41:39 PM javax.faces.FactoryFinder releaseFactories
+SEVERE: Unable to call @PreDestroy annotated methods because no InjectionProvider can be found. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:41:44 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after stop() had already been called. The second call will be ignored.
+Jan 17, 2020 6:41:44 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/WeatherWeb]
+Jan 17, 2020 6:41:44 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml]
+Jan 17, 2020 6:41:45 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: 
+        http://java.sun.com/jsf/html
+     is already defined
+Jan 17, 2020 6:41:45 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jsf/core is already defined
+Jan 17, 2020 6:41:45 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 6:41:48 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:41:48 PM com.sun.faces.config.ConfigureListener contextInitialized
+SEVERE: Critical error during deployment: 
+java.lang.NoClassDefFoundError: com/sun/enterprise/InjectionException
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:416)
+	at com.sun.faces.util.Util.loadClass(Util.java:325)
+	at com.sun.faces.spi.InjectionProviderFactory.getProviderFromEntry(InjectionProviderFactory.java:317)
+	at com.sun.faces.spi.InjectionProviderFactory.findProviderClass(InjectionProviderFactory.java:285)
+	at com.sun.faces.spi.InjectionProviderFactory.createInstance(InjectionProviderFactory.java:116)
+	at com.sun.faces.config.ConfigManager.initialize(ConfigManager.java:361)
+	at com.sun.faces.config.ConfigureListener.contextInitialized(ConfigureListener.java:221)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5195)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5720)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1016)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:992)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:639)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:712)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:587)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1814)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:303)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1521)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:916)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.ClassNotFoundException: com.sun.enterprise.InjectionException
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1951)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1794)
+	... 52 more
+
+Jan 17, 2020 6:41:48 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Jan 17, 2020 6:41:48 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WeatherWeb] startup failed due to previous errors
+Jan 17, 2020 6:41:48 PM javax.faces.FactoryFinder$FactoryManager copyInjectionProviderFromFacesContext
+SEVERE: Unable to obtain InjectionProvider from init time FacesContext. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:48 PM javax.faces.FactoryFinder$FactoryManager getFactory
+SEVERE: Application was not properly initialized at startup, could not find Factory: javax.faces.application.ApplicationFactory. Attempting to find backup.
+Jan 17, 2020 6:41:48 PM com.sun.faces.config.ConfigureListener contextDestroyed
+SEVERE: Unexpected exception when attempting to tear down the Mojarra runtime
+java.lang.IllegalStateException: Could not find backup for factory javax.faces.application.ApplicationFactory. 
+	at javax.faces.FactoryFinder$FactoryManager.getFactory(FactoryFinder.java:1135)
+	at javax.faces.FactoryFinder.getFactory(FactoryFinder.java:379)
+	at com.sun.faces.config.InitFacesContext.getApplication(InitFacesContext.java:142)
+	at com.sun.faces.config.ConfigureListener.contextDestroyed(ConfigureListener.java:319)
+	at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:5242)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5933)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:187)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1016)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:992)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:639)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:712)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:587)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1814)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:303)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1521)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:916)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Jan 17, 2020 6:41:48 PM javax.faces.FactoryFinder releaseFactories
+SEVERE: Unable to call @PreDestroy annotated methods because no InjectionProvider can be found. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:49 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml] has finished in [5,062] ms
+Jan 17, 2020 6:41:49 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after stop() had already been called. The second call will be ignored.
+Jan 17, 2020 6:41:50 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/WeatherWeb]
+Jan 17, 2020 6:41:50 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml]
+Jan 17, 2020 6:41:51 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: 
+        http://java.sun.com/jsf/html
+     is already defined
+Jan 17, 2020 6:41:51 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jsf/core is already defined
+Jan 17, 2020 6:41:51 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 6:41:53 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:41:53 PM com.sun.faces.config.ConfigureListener contextInitialized
+SEVERE: Critical error during deployment: 
+java.lang.NoClassDefFoundError: com/sun/enterprise/InjectionException
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:416)
+	at com.sun.faces.util.Util.loadClass(Util.java:325)
+	at com.sun.faces.spi.InjectionProviderFactory.getProviderFromEntry(InjectionProviderFactory.java:317)
+	at com.sun.faces.spi.InjectionProviderFactory.findProviderClass(InjectionProviderFactory.java:285)
+	at com.sun.faces.spi.InjectionProviderFactory.createInstance(InjectionProviderFactory.java:116)
+	at com.sun.faces.config.ConfigManager.initialize(ConfigManager.java:361)
+	at com.sun.faces.config.ConfigureListener.contextInitialized(ConfigureListener.java:221)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5195)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5720)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1016)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:992)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:639)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:712)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:587)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1814)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:303)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1521)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:916)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.ClassNotFoundException: com.sun.enterprise.InjectionException
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1951)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1794)
+	... 52 more
+
+Jan 17, 2020 6:41:53 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Jan 17, 2020 6:41:53 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WeatherWeb] startup failed due to previous errors
+Jan 17, 2020 6:41:53 PM javax.faces.FactoryFinder$FactoryManager copyInjectionProviderFromFacesContext
+SEVERE: Unable to obtain InjectionProvider from init time FacesContext. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:53 PM javax.faces.FactoryFinder$FactoryManager getFactory
+SEVERE: Application was not properly initialized at startup, could not find Factory: javax.faces.application.ApplicationFactory. Attempting to find backup.
+Jan 17, 2020 6:41:53 PM com.sun.faces.config.ConfigureListener contextDestroyed
+SEVERE: Unexpected exception when attempting to tear down the Mojarra runtime
+java.lang.IllegalStateException: Could not find backup for factory javax.faces.application.ApplicationFactory. 
+	at javax.faces.FactoryFinder$FactoryManager.getFactory(FactoryFinder.java:1135)
+	at javax.faces.FactoryFinder.getFactory(FactoryFinder.java:379)
+	at com.sun.faces.config.InitFacesContext.getApplication(InitFacesContext.java:142)
+	at com.sun.faces.config.ConfigureListener.contextDestroyed(ConfigureListener.java:319)
+	at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:5242)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5933)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:187)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1016)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:992)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:639)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:712)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:587)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1814)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:303)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1521)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:916)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:361)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:604)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:165)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:452)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1195)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:654)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Jan 17, 2020 6:41:53 PM javax.faces.FactoryFinder releaseFactories
+SEVERE: Unable to call @PreDestroy annotated methods because no InjectionProvider can be found. Does this container implement the Mojarra Injection SPI?
+Jan 17, 2020 6:41:54 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml] has finished in [4,615] ms
+Jan 17, 2020 6:42:14 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after stop() had already been called. The second call will be ignored.
+Jan 17, 2020 6:42:15 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/WeatherWeb]
+Jan 17, 2020 6:42:15 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml]
+Jan 17, 2020 6:42:15 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 6:42:19 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:42:19 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:42:19 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:42:19 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of deployment descriptor [F:\MY STUFF\NewSoftwareDev_WeatherApp\apache-tomcat-7.0.99\conf\Catalina\localhost\WeatherWeb.xml] has finished in [4,499] ms
+Jan 17, 2020 6:42:19 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:42:21 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 6:42:23 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:42:23 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:42:23 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:42:23 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
+Jan 17, 2020 6:42:23 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WeatherWeb]] after start() had already been called. The second call will be ignored.
+Jan 17, 2020 6:42:23 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] has started
+Jan 17, 2020 6:42:25 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 17, 2020 6:42:28 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/WeatherWeb'
+Jan 17, 2020 6:42:28 PM com.sun.faces.spi.InjectionProviderFactory createInstance
+INFO: JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+Jan 17, 2020 6:42:28 PM com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor <init>
+INFO: Monitoring jndi:/localhost/WeatherWeb/WEB-INF/faces-config.xml for modifications
+Jan 17, 2020 6:42:28 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/WeatherWeb] is completed
